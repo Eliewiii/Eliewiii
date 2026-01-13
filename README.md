@@ -8,6 +8,18 @@ For the past several years, I have not just applied numerical methods, but **arc
 
 ---
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![EnergyPlus](https://img.shields.io/badge/EnergyPlus-Simulation-2E8B57?style=for-the-badge)
+![Grasshopper](https://img.shields.io/badge/Grasshopper-Parametric_Design-489938?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
 ### 🏆 Engineering the Software Stack (Python Ecosystem)
 *During my PhD, I architected a modular co-simulation framework to bridge the gap between CAD geometry and physical engines.*
 
